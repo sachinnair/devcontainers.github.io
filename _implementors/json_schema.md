@@ -7,7 +7,7 @@ index: 3
 ---
 
 You may review the current devcontainer.json schemas in the spec repo, which include:
-* The [base schema](https://github.com/devcontainers/spec/blob/main/schemas/devContainer.base.schema.json): schema describing all base properties as documented in the [devcontainer.json reference](../json_reference).
+* The [base schema](https://github.com/devcontainers/spec/blob/main/schemas/devContainer.base.schema.json): schema describing all base properties as documented in the [devcontainer.json reference](./json_reference.md).
 * The [main schema](https://github.com/devcontainers/spec/blob/main/schemas/devContainer.schema.json): references the base schema, plus all schemas containing tool-specific properties.
 
 ## <a href="#base-schema" name="base-schema" class="anchor"> Base Schema </a>
